@@ -1,0 +1,134 @@
+<!DOCTYPE members SYSTEM "members.dtd">
+<members>
+
+<member level="Premium">
+<name>Gary Windt</name>
+<address>55 Hawking Street</address>
+<address>Delphi, KY 89011</address>
+<phone>(532) 555-9939</phone>
+<email>windtg@brockton.com</email>
+<contribution>$10,000</contribution>
+<contact>Contact: Phone</contact>
+</member>
+
+<member level="Premium">
+<name>Cynthia Browne</name>
+<address>71 Circuit Ct.</address>
+<address>Wheaton, KY 89321</address>
+<phone>(532) 555-3813</phone>
+<email>cynthia@brownes.com</email>
+<contribution>$10,000</contribution>
+<contact>Contact: Phone</contact>
+</member>
+
+<member level="Premium">
+<name>Howard Li</name>
+<address>4312 East Oak Avenue</address>
+<address>Youngston, KY 89318</address>
+<phone>(532) 555-3921</phone>
+<contribution>$10,000</contribution>
+<contact>Contact: Mail</contact>
+</member>
+
+<member level="Premium">
+<name>Uma Thu</name>
+<address>25 Longton Lane</address>
+<address>Delphi, KY 89011</address>
+<phone>(531) 555-8730</phone>
+<contribution>$10,000</contribution>
+<contact>Contact: Personal</contact>
+</member>
+
+<member level="Premium">
+<name>Alan Wilkes</name>
+<address>321 Ashburn</address>
+<address>Jasper, KY 89831</address>
+<phone>(532) 555-1181</phone>
+<email>wilkes_alan@wuilt.edu</email>
+<contribution>$5,000</contribution>
+<contact>Contact: Mail</contact>
+<notes>Notes: Please no personal visits</notes>
+</member>
+
+<member level="Premium">
+<name>Steve Bones</name>
+<address>900 Lawton Street</address>
+<address>Wheaton, KY 89211</address>
+<phone>(533) 555-5434</phone>
+<contribution>$5,000</contribution>
+<contact>Contact: Personal</contact>
+</member>
+
+<member level="Premium">
+<name>Jeri White</name>
+<address>Hawkes Lane</address>
+<address>Delphi, KY 89211</address>
+<phone>(542) 555-8828</phone>
+<email>jeri_white@kyu.edu</email>
+<contribution>$3,000</contribution>
+<contact>Contact: Phone</contact>
+</member>
+
+<member level="Premium">
+<name>Tom Thomas</name>
+<address>Rigel Avenue</address>
+<address>Drake, KY 89411</address>
+<phone>(531) 555-8311</phone>
+<contribution>$1,000</contribution>
+<contact>Contact: Phone</contact>
+</member>
+
+<member level="Gold">
+<name>Lee Unwin</name>
+<address>451 Unwin Ct.</address>
+<address>Jasper, KY 89381</address>
+<phone>(534) 555-9082</phone>
+<email>leeunwin@clarion.net</email>
+<contribution>$18,000</contribution>
+<contact>Contact: Personal</contact>
+<notes>Notes: Will add a second payment this summer</notes>
+</member>
+
+<member level="Gold">
+<name>Jane Whitney</name>
+<address>87 Hilltop Drive</address>
+<address>Jasper, KY 89381</address>
+<phone>(534) 555-7493</phone>
+<contribution>$15,000</contribution>
+<contact>Contact: Personal</contact>
+</member>
+
+<member level="Gold">
+<name>Andrew Sanchez</name>
+<address>891 Lindon Lane</address>
+<address>Delphi, KY 89011</address>
+<phone>(532) 555-4313</phone>
+<email>asanchez@yulit.com</email>
+<contribution>$15,000</contribution>
+<contact>Contact: Personal</contact>
+<notes>Notes: Founding member</notes>
+</member>
+
+<member level="Platinum">
+<name>David Olson</name>
+<address>5133 Oak Street</address>
+<address>Delphi, KY  89011</address>
+<phone>(532) 555-8981</phone>
+<email>dolson@delisp.net</email>
+<contribution>$25,000</contribution>
+<contact>Contact: personal</contact>
+<notes>Notes: Founding member</notes>
+</member>
+
+<member level="Platinum">
+<name>Cindy Wu</name>
+<address>31 Alice Avenue</address>
+<address>Delphi, KY 89011</address>
+<phone>(532) 555-7212</phone>
+<email>cwu@ispnet.net</email>
+<contribution>$25,000</contribution>
+<contact>Contact: personal</contact>
+<notes>Notes: Founding member</notes>
+</member>
+
+</members>

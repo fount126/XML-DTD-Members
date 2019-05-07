@@ -1,0 +1,10 @@
+<!ELEMENT members (member+)>
+<!ELEMENT member (#PCDATA|name|address|phone|contribution|contact|email|notes)*>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT contribution (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>
+<!ATTLIST member level (Premium|Gold|Platinum) #REQUIRED>
